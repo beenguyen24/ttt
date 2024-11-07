@@ -80,3 +80,4 @@ class MainWindowMidtermExt(Ui_MainWindow):
         self.lineEditSalaryIntern.setText(str(self.salaryofintern))
         self.lineEditSalarySenior.setText(str(self.salaryofsenior))
         self.lineEditCountToFall.setText(str(self.total))
+print('HelloWorld')
